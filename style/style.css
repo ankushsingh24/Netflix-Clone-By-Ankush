@@ -35,7 +35,7 @@ body {
   left: 0px;
   border-bottom: 8px solid #222;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)),
-    url("background.jpg") no-repeat center center/cover;
+    url("../assets/background.jpg") no-repeat center center/cover;
 }
 
 #language {
